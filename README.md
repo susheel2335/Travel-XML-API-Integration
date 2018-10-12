@@ -5,7 +5,7 @@ In this repository I will provide all sample codes related to xml api integratio
 
 you can also submit issue and we will provide support in the development
 
-please note all services are paid at rate of 10$ per hour 
+please note all services are paid 
 
 Arzoo XML API Integration
 Arzoo API
